@@ -11,3 +11,5 @@
 **lstm_self_attention.ipynb** **:** Feeding GloVe embeddings into a BiLSTM and an attention mechanism
 
 **ml.ipynb :** Using different types of embeddings (Word2Vec, TF-IDF, pretrained glove.6B.200d and GloVe trained on the data) and train different classifier models (SVM, Random Forest, XGBoost)
+
+**XLNet.ipynb :** xlnet-base-cased + MLP
